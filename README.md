@@ -19,7 +19,7 @@ An application that gives you a random useless fact!
 <if not visible github is bugged>
 ## Installation
 
-Install randomuselessfacts by downloading the below!
+Install randomuselessfacts by downloading from the below link!
     
 ## 🚀 About Me
 I'm a flutter developer! Check my profile if you like this project!
