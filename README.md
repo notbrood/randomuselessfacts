@@ -12,10 +12,10 @@ An application that gives you a random useless fact!
 
 ## Screenshots
 
-![App Screenshot](/images/ss1.png)
-![App Screenshot](/images/ss2.png)
-![App Screenshot](/images/ss3.png)
-![App Screenshot](/images/ss4.png)
+![App Screenshot](./images/ss1.png)
+![App Screenshot](./images/ss2.png)
+![App Screenshot](./images/ss3.png)
+![App Screenshot](./images/ss4.png)
 <if not visible github is bugged>
 ## Installation
 
